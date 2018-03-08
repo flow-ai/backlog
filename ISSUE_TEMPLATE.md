@@ -1,4 +1,6 @@
-**Note: for support questions, please use https://slack.flow.ai**. This repository's issues are reserved for feature requests and bug reports.
+**Note: for support questions, please use [slack](https://slack.flow.ai)**. This repository's issues are reserved for feature requests and bug reports.
+
+
 
 * **I'm submitting a ...**
   - [ ] bug report
@@ -27,8 +29,8 @@
 
 * **Please tell us about your environment:**
   
-  - Browser: [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX | Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX WKWebView ]
-  - Language: [all | TypeScript X.X | ES6/7 | ES5 | Dart]
+  - Browser: [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX | Android X.X Web Browser | iOS XX Safari]
+  - OS: [all | Windows X.X | macOS | iOS ]
 
 
 * **Other information** (e.g. detailed explanation, related issues, suggestions how to fix, links for us to have context)
