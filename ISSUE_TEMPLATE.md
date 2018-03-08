@@ -1,7 +1,5 @@
 **Note: for support questions, please use [slack](https://slack.flow.ai)**. This repository's issues are reserved for feature requests and bug reports.
 
-
-
 * **I'm submitting a ...**
   - [ ] bug report
   - [ ] feature request
