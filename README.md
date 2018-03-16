@@ -15,3 +15,6 @@ If you have any direct support questions, please join the Flow.ai community. We 
 
 - [Slack](https://slack.flow.ai)
 - [Discussion board](https://boards.flow.ai)
+
+## Collaborate 
+Want to help in the development of Flow.ai? We are always looking for new talent. Join [our Slack channel](https://slack.flow.ai) and let us know.
